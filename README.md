@@ -3,8 +3,11 @@
 
 
 The numbers.txt file is needed for question 4.
+
 I made some comments for myself, if I forgot or need to come check the code for later.
+
 These comments may help you to understand the functions.
+
 These are my begginer works so they may not be efficient.
 
 Questions:
